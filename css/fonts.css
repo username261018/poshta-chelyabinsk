@@ -1,0 +1,5 @@
+@font-face{font-family:"Lora";font-style:italic;font-weight:500;font-display:swap;src:url(../fonts/lora-i500.woff2) format("woff2")}
+@font-face{font-family:"Rubik";font-style:normal;font-weight:400;font-display:swap;src:url(../fonts/rubik-400.woff2) format("woff2")}
+@font-face{font-family:"Rubik";font-style:normal;font-weight:600;font-display:swap;src:url(../fonts/rubik-600.woff2) format("woff2")}
+@font-face{font-family:"Rubik fb";src:local("Arial"),local("Liberation Sans"),local("DejaVu Sans");size-adjust:104%;ascent-override:90%;descent-override:24%;line-gap-override:0%}
+@font-face{font-family:"Lora fb";font-style:italic;src:local("Georgia Italic"),local("DejaVu Serif Italic"),local("Liberation Serif Italic");size-adjust:98%;ascent-override:100%;descent-override:27%;line-gap-override:0%}
